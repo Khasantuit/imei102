@@ -4,4 +4,4 @@ from jinoyat.models import *
 class JinoyatSerializer(serializers.ModelSerializer):
     class Meta:
         model = Jinoyat
-        fields = ('id', 'jinoyatn','number','fio', 'jshshir', 'info')
+        fields = ('id', 'jinoyat_N', 'fio', 'jshshir', 'info', 'number')

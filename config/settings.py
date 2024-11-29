@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     'ariza_device',
     'registration',
     'jinoyat',
+    'qidiruv',
     'tyj',
     'pincode',
     'authentication',
