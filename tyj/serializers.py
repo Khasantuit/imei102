@@ -4,4 +4,4 @@ from tyj.models import *
 class TYJSerializer(serializers.ModelSerializer):
     class Meta:
         model = TYJ
-        fields = ('id', 'tyjn','shartli_nom', 'info')
+        fields = ('id', 'tyj_N','shartli_nom', 'info')
