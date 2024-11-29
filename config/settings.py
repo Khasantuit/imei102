@@ -27,7 +27,7 @@ INSTALLED_APPS = [
     'qidiruv',
     'tyj',
     'pincode',
-    'authentication',
+    'login',
     'rest_framework',
 ]
 

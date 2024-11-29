@@ -10,6 +10,5 @@ urlpatterns = [
     path('qidiruv/', include('qidiruv.url')),
     path('tyj/', include('tyj.url')),
     path('pincode/', include('pincode.url')),
-    path('auth/', include('authentication.url')),
-
+    path('login/', include('login.url')),
 ]
