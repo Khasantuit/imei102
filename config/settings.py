@@ -20,13 +20,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'api.ariza_person',
-    'api.ariza_device',
-    'api.registration',
-    'api.jinoyat',
-    'api.tyj',
-    'api.pincode',
-    'api.authentication'
+    'ariza_person',
+    'ariza_device',
+    'registration',
+    'jinoyat',
+    'tyj',
+    'pincode',
+    'authentication',
     'rest_framework',
 ]
 
